@@ -1,7 +1,7 @@
 my name is Sanjay 
 btech it
 sa enginnering college
-my hobbies are playing,gaming
+my hobbies are playing
 echo "# MyGitProject" >> README.md
 git init
 git add README.md
