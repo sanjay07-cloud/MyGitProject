@@ -1,11 +1,1 @@
-my name is Sanjay 
-btech it
-sa enginnering college
-my hobbies are playing
-echo "# MyGitProject" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/sanjay07-cloud/MyGitProject.git
-git push -u origin main
+this is github
